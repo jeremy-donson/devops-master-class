@@ -2,7 +2,24 @@
 
 ## Table Of Contents
 
+- [Course Home](#course-home)
+- [Introduction and Concepts](#introduction-and-concepts)
 - [Logins Needed](#logins)
+
+## Course Home 
+
+[Course Home](https://www.udemy.com/devops-masterclass/learn/v4)
+
+## Introduction and Concepts
+
+- Development Team
+- Dev Ops Team
+- Production Support Team
+- Continuous Testing
+- Continuous Integration
+- Continuous Improvements
+- Continuous Delivery
+
 
 ## Logins
 
